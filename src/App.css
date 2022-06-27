@@ -38,7 +38,7 @@
   width:98%;
   margin: 0px;
   padding: 0px;
-  background-color: hsl(0, 100%, 64%);
+  /* background-color: hsl(0, 100%, 64%); */
   text-align: left;
 }
   
@@ -64,6 +64,11 @@
   display: flex;
   align-items: center;
   justify-content: end;
+}
+
+.del{
+  padding: 0vh;
+  font-size: 22px;
 }
 
 *{

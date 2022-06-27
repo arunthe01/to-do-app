@@ -11,15 +11,17 @@
     background-color: rgb(255, 187, 187);
     height: 7vh;
     /* width:6vh; */
+    width:15%;
     margin-left: 1vh;
     border-radius: 4px;
     padding: 1vh;
+    font-size: 2vh;
 }
 
 .input-box{
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
-    width: 45vh;
+    width:70%;
     height: 5vh;
     border: 2px solid hsl(0, 0%, 0%);
 }
