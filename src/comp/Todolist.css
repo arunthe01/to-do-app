@@ -42,13 +42,15 @@
     
     height: 6vh;
     font-size: small;
+    padding: 1vh;
     
 }
 .check{
-    width: 50px;
+    
     height: 6vh;
 
     font-size: small;
+    padding: 1vh;
     /* margin-top: 7px;  */
 }
 
