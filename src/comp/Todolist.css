@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: space-around;
     border-radius: 10px;
-    width: 60vh;
+    width:80%;
     margin: 3vh auto;
     font-size:4vh;
     font-weight: bolder;
@@ -32,23 +32,25 @@
 
 .opt{
     display: flex;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
     width: 38%;
-    justify-content: space-between;
+    
 }
  .del{
   
     
-    height: 6vh;
+    /* height: 4vh; */
     font-size: small;
     padding: 1vh;
+    margin-right: 4vh;
     
 }
 .check{
     
-    height: 6vh;
-
+    height: 3vh;
+    width:5vw;
+    margin-right: 5px;
     font-size: small;
     padding: 1vh;
     /* margin-top: 7px;  */
