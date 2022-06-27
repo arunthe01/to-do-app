@@ -1,0 +1,54 @@
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    width: 60vh;
+    margin: 3vh auto;
+    font-size:4vh;
+    font-weight: bolder;
+    color: #ffffe7;
+    background-color: gold;
+    overflow:auto;
+    /* padding: 4px 4px; */
+   
+    
+}
+.title{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    width:60%;
+    /* background-color: antiquewhite; */
+    margin: 0px;
+    padding: 0px;
+}
+
+.title > input{
+    height:5vh;
+    background-color: gold;
+    border: none;
+}
+
+.opt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38%;
+    justify-content: space-between;
+}
+ .del{
+  
+    
+    height: 6vh;
+    font-size: small;
+    
+}
+.check{
+    width: 50px;
+    height: 6vh;
+
+    font-size: small;
+    /* margin-top: 7px;  */
+}
+
