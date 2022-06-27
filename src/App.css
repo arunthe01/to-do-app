@@ -43,7 +43,16 @@
 }
 
 .input-box{
-  width:60vw;
+  width:90%;
+
+}
+
+.add-list-btn{
+  width:10%;
+}
+
+.list{
+  width:90%;
 }
    
  
