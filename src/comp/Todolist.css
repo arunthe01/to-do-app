@@ -21,7 +21,11 @@
     width:60%;
     /* background-color: antiquewhite; */
     margin: 0px;
-    padding: 0px;
+    padding: 1vh;
+    font-size: 2vh;
+    font-weight:lighter;
+    color:black
+
 }
 
 .title > input{
