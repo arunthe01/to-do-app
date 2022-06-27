@@ -37,11 +37,14 @@
 
   
 .App{
-  height:50vh;
+  height:80vh;
   margin:10vh auto;
   width:90vw;
 }
 
+.input-box{
+  width:60vw;
+}
    
  
 
